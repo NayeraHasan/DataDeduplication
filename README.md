@@ -68,6 +68,4 @@ The dataset represents registered voters in the United States, specifically focu
 **Methods**:
 - `main(String[] args)`: Main method to run the program.
 
----
 
-This version provides a structured and detailed overview of the deduplication methods and classes used in the project, following the style you provided.
