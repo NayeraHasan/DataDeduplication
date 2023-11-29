@@ -1,6 +1,6 @@
 # Data-Deduplication-Hash-Tables-and-Deduplication-Algorithms
 
-This project focuses on data deduplication using three specific methods: All pairs, Linear hashing, and Sort-remove. The Java-based implementation aims to efficiently identify and remove duplicate voter records from a dataset using principles of Object-Oriented Programming (OOP).
+This project focuses on data deduplication using three specific methods: All pairs, Linear hashing, and Sort-remove. The Java-based implementation aims to efficiently identify and remove duplicate voter records from a dataset as well as analyzing the efficiency of each method in terms of time and memory usage using principles of Object-Oriented Programming (OOP).
 
 ## Table of Contents
 - [Overview](#overview)
